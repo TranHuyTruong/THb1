@@ -100,4 +100,4 @@ limit_result_label.grid(row = 5, column = 3)
 
 # Khởi chạy giao diện
 root.mainloop()
-#tung commit
+
